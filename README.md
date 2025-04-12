@@ -76,3 +76,6 @@ tmdb-data-analysis/
 3. The Franchise with the highest total and average revenue is the Avengers and the Avatar collection respectiveky
 4. The Franchise with the highest average ratings is the Harry Potter collections
 5. Diretors with highest number of movies are James Cameron, Joss Whedon, Anthony Russo, Joe Russo, Chris Buck, Jennifer Lee
+6. The most sucessful director based on total revenue is James Cameron
+7. The most succesful directors based on the average ratings are Joe Russo, Anthony Russo
+
